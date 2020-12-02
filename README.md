@@ -11,5 +11,7 @@ I'm BENJDIA Saad, Software Engineering Student 👨‍🎓, highly motivated, dy
 
 👨‍💼 [Linkedin](https://www.linkedin.com/in/saadbenjdia/)<br>
 💬 [Facebook](https://www.facebook.com/profile.php?id=100018258616268)<br>
+📫 [Email](mailto:benjdiasaad97@gmail.com) <br>
+
 
 </smap>
