@@ -7,4 +7,8 @@ I'm BENJDIA Saad, Software Engineering Student 👨‍🎓, highly motivated, dy
  <a href="https://blog.stephenajulu.com/"><img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=benjdiasaad&show_icons=true&hide_border=true"></a>
 </p>
 
+### Reach me at: 🔍
+
+👨‍💼 [Linkedin Badge](https://www.linkedin.com/in/saadbenjdia/)<br>
+
 </smap>
