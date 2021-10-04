@@ -16,5 +16,6 @@ I have over +2 years of experience at private IT companies. Also as a freelancer
 📫 [Email](mailto:benjdiasaad97@gmail.com) <br>
 💬 [Facebook](https://www.facebook.com/profile.php?id=100018258616268) <br>
 🌱 [Personal website](https://benjdiasaad.github.io/)
+😎 [Discord](https://discord.gg/8tUJN4Kk) 
 
 </smap>
