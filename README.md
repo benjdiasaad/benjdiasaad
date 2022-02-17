@@ -19,3 +19,5 @@ I have over +2 years of experience at private IT companies. Also as a freelancer
 😎 [Discord](https://discord.gg/8tUJN4Kk) 
 
 </smap>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=benjdiasaad)
