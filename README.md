@@ -5,10 +5,6 @@ I'm BENJDIA Saad, Software Engineering, highly motivated, dynamic, persevering, 
 
 I have over +3 years of experience at private IT companies. Also as a freelancer.
  
-<p>
- <a href="https://blog.stephenajulu.com/"><img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=benjdiasaad&show_icons=true&hide_border=true"></a>
-</p>
-
 ### Reach me at 🔍
 
 👨‍💼 [Linkedin](https://www.linkedin.com/in/saadbenjdia/)<br>
