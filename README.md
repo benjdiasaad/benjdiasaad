@@ -4,6 +4,8 @@
 I'm BENJDIA Saad, Software Engineering, highly motivated, dynamic, persevering, rigorous and passionate about IT & web and mobile development, I'm Full Stack Web Developer, also I like building new stuff and work with other people. My background contains various experiences and projects.
 
 I have over +3 years of experience at private IT companies. Also as a freelancer.
+
+[![ghost Nuxter profile](https://nuxters.nuxt.com/card/ghost/og.png)](https://nuxters.nuxt.com/ghost)
  
 ### Reach me at 🔍
 
