@@ -51,7 +51,7 @@
 ### 🛒 Full Stack Coffee Shop
 > E-commerce application with Laravel + Angular  
 
-🔗 https://github.com/benjdiasaad/angular-gestiondenotes-app
+🔗 https://github.com/benjdiasaad/Full-stack_Coffee-shop
 
 ---
 
