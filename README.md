@@ -58,8 +58,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benjdiasaad&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=benjdiasaad&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benjdiasaad&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=benjdiasaad&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
