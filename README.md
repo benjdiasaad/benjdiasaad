@@ -59,7 +59,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benjdiasaad&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benjdiasaad&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=benjdiasaad&theme=radical" />
 </p>
 
 ---
