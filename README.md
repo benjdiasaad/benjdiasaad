@@ -9,12 +9,11 @@
 
 ## 🧠 About Me
 
-- 💼 Software Engineer with **4+ years of experience**
-- ⚙️ Specialized in **Laravel, APIs, and system architecture**
+- 💼 Confirmed Software Engineer with 4+ years of experience building scalable and reliable systems
+- ⚙️ Strong expertise in **Laravel, APIs, and system architecture**
 - 🚀 Focused on **performance, scalability & clean code**
-- 🔁 Experienced in **data sync, automation & integrations (CRM, APIs)**
 - 🌍 Based in **Casablanca, Morocco**
-- 🧩 Currently exploring **AI-powered development tools & automation**
+- 🧩 Contributed to complex production systems including cross-platform integrations, debugging, and data consistency challenges
 
 ---
 
