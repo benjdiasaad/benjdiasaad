@@ -67,8 +67,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/saadbenjdia" target="blank">LinkedIn</a> •
   <a href="https://saadfolio-production-s2g3iu.laravel.cloud/" target="blank">Portfolio</a> •
-  <a href="mailto:benjdiasaad97@gmail.com">Email</a> •
-  <a href="https://github.com/benjdiasaad">GitHub</a>
+  <a href="mailto:benjdiasaad97@gmail.com">Email</a>
 </p>
 
 ---
